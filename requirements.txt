@@ -4,3 +4,6 @@ visualdl
 paddleseg
 paddlenlp
 paddleocr
+pandas
+datetime
+xgboost
